@@ -1,0 +1,17 @@
+
+# > Apple
+# >> TestFlight
+DOMAIN,testflight.apple.com,Normal
+# >> Apple URL Shortener
+DOMAIN-SUFFIX,appsto.re,Normal
+# >> iBooks Store download
+DOMAIN,books.itunes.apple.com,Normal
+# >> iTunes Store Moveis Trailers
+DOMAIN,hls.itunes.apple.com,Normal
+# >> Spotlight
+DOMAIN,api-glb-sea.smoot.apple.com,Normal
+# >> Dictionary
+DOMAIN,lookup-api.apple.com,Normal
+
+
+DOMAIN-KEYWORD,github,Normal
